@@ -1,4 +1,4 @@
-# ✨Know Me
+# ✨About Me
 Hey there! I am Yash Srivastava, a 17-year-old Class 12 student with a keen interest in coding and digital content creation. My programming skills include Core Java, Python, and basic HTML. 
 Additionally, I'm proficient in industry-leading softwares, like Adobe Premiere Pro, Lightroom, Audition, Photoshop.
 I am eager to apply my skills and knowledge to real-world projects and continuously expand my expertise in technology and media. Stay tuned!
