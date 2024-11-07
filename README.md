@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjRwMnFod2tpMjF5a2U0MHQwajgxZjhsb3B6a3N6c3ZkbWxyeTZiNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UCQ5LookOT2ufbsGiT/giphy-downsized-large.gif" alt="Your GIF" width="300"/>
+  <img src="https://media4.giphy.com/media/UCQ5LookOT2ufbsGiT/200.gif" alt="Your GIF" width="300"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Yash Srivastava</h1>
