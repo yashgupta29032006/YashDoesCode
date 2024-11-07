@@ -1,19 +1,20 @@
 <h1 align="center">Hi 👋, I'm Yash Srivastava</h1>
-<h3 align="center">Professional Video/SFX Editor & Aspiring Coder</h3>
+<h3 align="center">A Professional Video/SFX Editor & Amateur Coder in Industry leading Languages</h3>
+<img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/34459397/101671442-43ca3300-3a33-11eb-8361-a4b480abe3df.gif" alt="Your GIF" alt="Your GIF)"/>
+<div style="display: flex; align-items: center;">
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
+
   <!-- Left Column: Paragraph -->
   <p style="flex: 1; text-align: justify; margin-right: 20px;">
-    I am Yash Srivastava, a 17-year-old Class 12 student with a passion for coding and digital content creation. My technical skills include Core Java, Python, and HTML, along with proficiency in industry-standard software such as Adobe Premiere Pro, Lightroom, Audition, and Photoshop.
+    Hey there! I am Yash Srivastava, a 17-year-old Class 12 student with a keen interest in coding and digital content creation. My programming skills include Core Java, Python, and basic HTML. Additionally, I'm proficient in industry-leading software such as Adobe Premiere Pro, Lightroom, Audition, and Photoshop.
     <br><br>
-    I am committed to applying my skills to real-world projects and continuously enhancing my expertise in technology and media. Stay tuned as I work towards advancing my knowledge and contributing to innovative solutions.
+    I am eager to apply my skills and knowledge to real-world projects and continuously expand my expertise in technology and media. Stay tuned!
   </p>
 
   <!-- Vertical Divider -->
   <div style="border-left: 2px solid #000; height: 100%; margin: 0 20px;"></div>
 
   <!-- Right Column: GIF -->
-  <img align="right" alt="Coding GIF" width="200" src="https://user-images.githubusercontent.com/34459397/101671442-43ca3300-3a33-11eb-8361-a4b480abe3df.gif"/>
 </div>
 
 ### Known Languages
