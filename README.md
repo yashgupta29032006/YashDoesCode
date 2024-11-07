@@ -2,7 +2,7 @@
 <h3 align="center">A Professional Video/SFX Editor & Amateur Coder in Industry leading Languages</h3>
 <img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/34459397/101671442-43ca3300-3a33-11eb-8361-a4b480abe3df.gif" alt="Your GIF" alt="Your GIF)"/>
 <div style="display: flex; align-items: center;">
-
+https://cdn.icon-icons.com/icons2/3053/PNG/512/adobe_premiere_pro_macos_bigsur_icon_189485.png
 
   <!-- Left Column: Paragraph -->
   <p style="flex: 1; text-align: justify; margin-right: 20px;">
