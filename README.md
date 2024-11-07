@@ -1,14 +1,15 @@
-
-<h1>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Emoji" width="30px"/> 
-  Hello, I'm <a href="http://ayushportfolio-teal.vercel.app"><img src="https://github.com/user-attachments/assets/8e2fc82d-5062-4c00-bd84-2da0a68a6179" alt="Ayush's GitHub Avatar" width="45px"/> Ayush</a>! <div align="center"><img align="right" src="https://komarev.com/ghpvc/?username=YashDoesCode" alt="GitHub profile views counter"></div>
-</h1>  
+<h1>✨ About Me</h1>
+<p>
+  Hey there! I am Yash Srivastava, a 17-year-old Class 12 student with a keen interest in coding and digital content creation. My programming skills include Core Java, Python, and basic HTML. Additionally, I'm proficient in industry-leading software such as Adobe Premiere Pro, Lightroom, Audition, and Photoshop.
+</p>
+<p>
+  I am eager to apply my skills and knowledge to real-world projects and continuously expand my expertise in technology and media. Stay tuned!
+</p>
 
 <div>
-  <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="300px" align="right" alt="A professional animation coder gif"/>
+  <img src="https://github.com/user-attachments/assets/dac33b3f-5455-4d21-a9ca-7823940063e4" alt="Profile Image of Yash Srivastava" width="300px" align="right"/>
 </div>
 
-### <div>
 <ul>
   <li>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" alt="Globe Showing Europe" width="25px" align="center" /> Based in <strong>Bhopal, India</strong>
@@ -20,7 +21,7 @@
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="Email Emoji" width="25px" align="center" /> Contact me @: <a href="mailto:khemcodes@gmail.com"><strong>khemcodes@gmail.com</strong></a>
   </li>
   <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" alt="Rocket Emoji" width="25px" align="center" /> Building <strong>Chess Improver</strong>, an AI-powered chess assistant. 
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" alt="Rocket Emoji" width="25px" align="center" /> Building <strong>Chess Improver</strong>, an AI-powered chess assistant.
   </li>
   <li>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain Emoji" width="25px" align="center" /> Exploring <strong>AI</strong> to create smarter user experiences
@@ -30,11 +31,6 @@
   </li>
 </ul>
 
-# ✨About Me
-Hey there! I am Yash Srivastava, a 17-year-old Class 12 student with a keen interest in coding and digital content creation. My programming skills include Core Java, Python, and basic HTML. Additionally, I'm proficient in industry-leading softwares, like Adobe Premiere Pro, Lightroom, Audition, Photoshop.
-I am eager to apply my skills and knowledge to real-world projects and continuously expand my expertise in technology and media. Stay tuned!
-
-![14724c7b-e734-4344-ae11-1c41b103004f](https://github.com/user-attachments/assets/dac33b3f-5455-4d21-a9ca-7823940063e4)
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30px" align="center" alt="Rocket Emoji"/> Featured Projects
 
 ### Languages
