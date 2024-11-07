@@ -1,5 +1,4 @@
-![gif](https://github.com/user-attachments/assets/80133e41-f042-428a-82e4-b21aada1caca)
-
+<iframe src="https://giphy.com/embed/UCQ5LookOT2ufbsGiT" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/GitHub-transparent-UCQ5LookOT2ufbsGiT">via GIPHY</a></p>
 <h1 align="center">Hi 👋, I'm Yash Srivastava</h1>
 <h3 align="center"> A Professional Video/SFX Editor & Amateur Coder in Industry leading Languages</h3>
 <p>
