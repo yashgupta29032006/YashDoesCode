@@ -1,4 +1,4 @@
-<h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="Lightning Emoji" About Me</h1>
+<h1>✨ About Me</h1>
 <p>
   Hey there! I am Yash Srivastava, a 17-year-old Class 12 student with a keen interest in coding and digital content creation. My programming skills include Core Java, Python, and basic HTML. Additionally, I'm proficient in industry-leading software such as Adobe Premiere Pro, Lightroom, Audition, and Photoshop.
 </p>
