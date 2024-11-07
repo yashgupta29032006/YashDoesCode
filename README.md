@@ -9,7 +9,7 @@
   <p style="max-width: 700px; text-align: center;">
     I'm a 17-year-old coder and content creator with a passion for both coding and digital media. 
     <br>
-    My programming skills include Core Java, Python, HTML, and LaTeX. I'm also proficient in industry-standard software such as Adobe Premiere Pro, Lightroom, Audition, and Photoshop.
+    My programming skills include Core Java, Python, HTML, and LaTeX. I'm also proficient in industry-standard software such as Adobe Premiere Pro, Lightroom, Audition, Photoshop, HitFilm Express, Photopea, Canva etc
     <br><br>
     I'm always eager to take on new projects and expand my skills in technology and media. Let's build something amazing together!
   </p>
