@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yash Srivastava</h1>
 <h3 align="center">A Professional Video/SFX Editor & Amateur Coder in Industry leading Languages</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
+<img align="right" alt="Coding" width="400" src="[https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif](https://media4.giphy.com/media/UCQ5LookOT2ufbsGiT/200.gif" alt="Your GIF)"/>
 <div style="display: flex; align-items: center;">
 
 
@@ -15,7 +15,6 @@
   <div style="border-left: 2px solid #000; height: 100%; margin: 0 20px;"></div>
 
   <!-- Right Column: GIF -->
-  <img src="https://media4.giphy.com/media/UCQ5LookOT2ufbsGiT/200.gif" alt="Your GIF" width="300"/>
 </div>
 
 ### Known Languages
