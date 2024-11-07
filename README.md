@@ -3,6 +3,9 @@
 
 <div style="display: flex; align-items: center;">
   <!-- Left Column: Paragraph -->
+
+  <p align="left"> <img src="https://media4.giphy.com/media/UCQ5LookOT2ufbsGiT/200.gif" alt="Your GIF" width="300"/>
+
   <p style="flex: 1; text-align: justify; margin-right: 20px;">
     Hey there! I am Yash Srivastava, a 17-year-old Class 12 student with a keen interest in coding and digital content creation. My programming skills include Core Java, Python, and basic HTML. Additionally, I'm proficient in industry-leading software such as Adobe Premiere Pro, Lightroom, Audition, and Photoshop.
     <br><br>
