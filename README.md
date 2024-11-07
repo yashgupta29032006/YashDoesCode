@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e5f9a6a3-f369-406b-bb1b-6df6c120708d)
+![gif](https://github.com/user-attachments/assets/80133e41-f042-428a-82e4-b21aada1caca)
 
 <h1 align="center">Hi 👋, I'm Yash Srivastava</h1>
 <h3 align="center"> A Professional Video/SFX Editor & Amateur Coder in Industry leading Languages</h3>
