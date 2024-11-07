@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yash Srivastava</h1>
 <h3 align="center">A Professional Video/SFX Editor & Amateur Coder in Industry leading Languages</h3>
-<img align="right" alt="Coding" width="200" src="https://raw.githubusercontent.com/ppat94/ppat94/master/assets/cool.gif" alt="Your GIF" alt="Your GIF)"/>
+<img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/34459397/101671442-43ca3300-3a33-11eb-8361-a4b480abe3df.gif" alt="Your GIF" alt="Your GIF)"/>
 <div style="display: flex; align-items: center;">
 
 
