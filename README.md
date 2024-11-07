@@ -1,4 +1,5 @@
-<h1>✨ About Me</h1>
+<h1 align="center">Hi 👋, I'm Yash Srivastava</h1>
+<h3 align="center"> A Professional Video/SFX Editor & Amateur Coder in Industry leading Languages</h3>
 <p>
   Hey there! I am Yash Srivastava, a 17-year-old Class 12 student with a keen interest in coding and digital content creation. My programming skills include Core Java, Python, and basic HTML. Additionally, I'm proficient in industry-leading software such as Adobe Premiere Pro, Lightroom, Audition, and Photoshop.
 </p>
