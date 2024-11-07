@@ -5,7 +5,7 @@
 
   <!-- Left Column: Paragraph -->
   <p style="flex: 1; text-align: justify; margin-right: 20px;">
-    Just A 17-year-old Class 12 student with a keen interest in coding and digital content creation. My programming skills include Core Java, Python, and basic HTML. Additionally, I'm proficient in industry-leading software such as Adobe Premiere Pro, Lightroom, Audition, and Photoshop.
+    Just A 17-year-old with a keen interest in coding and digital content creation. My programming skills include Core Java, Python, HTML & LaTex. Additionally, I'm proficient in industry-leading software such as Adobe Premiere Pro, Lightroom, Audition, and Photoshop.
     <br><br>
     I am eager to apply my skills and knowledge to real-world projects and continuously expand my expertise in technology and media. Stay tuned!
   </p>
