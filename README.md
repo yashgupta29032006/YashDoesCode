@@ -1,12 +1,18 @@
 <h1 align="center">Hi 👋, I'm Yash Srivastava</h1>
 <h3 align="center">A Professional Video/SFX Editor & Amateur Coder in Industry leading Languages</h3>
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<div style="display: flex; align-items: center;">
+  <!-- Left Column: Paragraph -->
   <p style="flex: 1; text-align: justify; margin-right: 20px;">
     Hey there! I am Yash Srivastava, a 17-year-old Class 12 student with a keen interest in coding and digital content creation. My programming skills include Core Java, Python, and basic HTML. Additionally, I'm proficient in industry-leading software such as Adobe Premiere Pro, Lightroom, Audition, and Photoshop.
     <br><br>
     I am eager to apply my skills and knowledge to real-world projects and continuously expand my expertise in technology and media. Stay tuned!
   </p>
+
+  <!-- Vertical Divider -->
+  <div style="border-left: 2px solid #000; height: 100%; margin: 0 20px;"></div>
+
+  <!-- Right Column: GIF -->
   <img src="https://media4.giphy.com/media/UCQ5LookOT2ufbsGiT/200.gif" alt="Your GIF" width="300"/>
 </div>
 
