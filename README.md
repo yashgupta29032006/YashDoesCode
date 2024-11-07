@@ -1,148 +1,70 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Yash Srivastava's Profile</title>
-  <style>
-    body {
-      font-family: 'Arial', sans-serif;
-      margin: 0;
-      padding: 0;
-      background-color: #f9f9f9;
-      color: #333;
-    }
+<h1 align="center">Hi 👋, I'm Yash Srivastava</h1>
+<h3 align="center">A Professional Video/SFX Editor & Amateur Coder in Industry-leading Languages</h3>
 
-    .container {
-      width: 80%;
-      margin: 0 auto;
-      max-width: 1200px;
-      padding: 20px;
-    }
+<p align="center">
+  <img width="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjFhNXYyb2Zrcmh6ZGQzOG84MGhuM2gzN3ZkdnNzbGl0Z3ZpanE4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UCQ5LookOT2ufbsGiT/giphy.webp" alt="Coding GIF"/>
+</p>
 
-    h1, h3 {
-      text-align: center;
-      color: #4a4a4a;
-    }
+<div align="center">
+  <p style="max-width: 700px; text-align: center;">
+    I'm a 17-year-old coder and content creator with a passion for both coding and digital media. 
+    <br>
+    My programming skills include Core Java, Python, HTML, and LaTeX. I'm also proficient in industry-standard software such as Adobe Premiere Pro, Lightroom, Audition, and Photoshop.
+    <br><br>
+    I'm always eager to take on new projects and expand my skills in technology and media. Let's build something amazing together!
+  </p>
+</div>
 
-    .main-content {
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      margin-top: 20px;
-    }
+---
 
-    .bio {
-      flex: 1;
-      text-align: justify;
-      margin-right: 20px;
-      font-size: 16px;
-      line-height: 1.6;
-    }
+### 🚀 **Languages & Technologies**
 
-    .bio img {
-      max-width: 100%;
-      height: auto;
-      border-radius: 10px;
-    }
+<p align="center">
+  <img src="https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54" alt="Python"/>
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/latex-%23008080.svg?logo=latex&logoColor=white" alt="LaTeX"/>
+</p>
 
-    .divider {
-      border-left: 2px solid #ccc;
-      height: 100%;
-      margin: 0 20px;
-    }
+---
 
-    .tech-stack {
-      display: flex;
-      justify-content: center;
-      flex-wrap: wrap;
-      margin-top: 20px;
-    }
+### 🎬 **Editing Software**
 
-    .tech-stack img {
-      margin: 10px;
-    }
+<p align="center">
+  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" alt="Adobe Premiere Pro"/>
+  <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Adobe Photoshop"/>
+  <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" alt="Adobe Lightroom"/>
+  <img src="https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white" alt="Adobe Audition"/>
+  <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white" alt="Adobe After Effects"/>
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva"/>
+</p>
 
-    .footer {
-      text-align: center;
-      margin-top: 40px;
-      font-size: 14px;
-      color: #888;
-    }
+---
 
-    .footer a {
-      color: #4a90e2;
-      text-decoration: none;
-    }
+### 💻 **Tools & IDEs**
 
-    .footer a:hover {
-      text-decoration: underline;
-    }
-  </style>
-</head>
-<body>
+<p align="center">
+  <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/>
+  <img src="https://img.shields.io/badge/pycharm-143?logo=pycharm&logoColor=black&color=black&labelColor=green" alt="PyCharm"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&logoColor=white" alt="Visual Studio"/>
+  <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?logo=sublime-text&logoColor=important" alt="Sublime Text"/>
+  <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white" alt="Eclipse"/>
+  <img src="https://img.shields.io/badge/Atom-%2366595C.svg?logo=atom&logoColor=white" alt="Atom"/>
+  <img src="https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06" alt="LeetCode"/>
+</p>
 
-  <div class="container">
-    <!-- Header -->
-    <h1>Hi 👋, I'm Yash Srivastava</h1>
-    <h3>A Professional Video/SFX Editor & Amateur Coder in Industry-leading Languages</h3>
+---
 
-    <!-- Main content -->
-    <div class="main-content">
-      <!-- Left Column: Bio -->
-      <div class="bio">
-        <img align="right" alt="Coding" width="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjFhNXYyb2Zrcmh6ZGQzOG84MGhuM2gzN3ZkdnNzbGl0Z3ZpanE4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UCQ5LookOT2ufbsGiT/giphy.webp" />
-        <p>
-          Just A 17-year-old with a keen interest in coding and digital content creation. My programming skills include Core Java, Python, HTML & LaTeX. Additionally, I'm proficient in industry-leading software such as Adobe Premiere Pro, Lightroom, Audition, and Photoshop.
-        </p>
-        <p>
-          I am eager to apply my skills and knowledge to real-world projects and continuously expand my expertise in technology and media. Stay tuned!
-        </p>
-      </div>
+### 🌟 **Connect With Me**
 
-      <!-- Vertical Divider -->
-      <div class="divider"></div>
+Feel free to reach out for collaboration opportunities, coding discussions, or content creation projects. I'm always open to new ideas!
 
-      <!-- Right Column: GIF (Already placed above) -->
-    </div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/yash-srivastava-12345/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/YashSrivastava" target="_blank"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub"/></a>
+  <a href="mailto:yash@example.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"/></a>
+</p>
 
-    <!-- Known Languages -->
-    <h3>Known Languages</h3>
-    <div class="tech-stack">
-      <img src="https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54" />
-      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=white" />
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/latex-%23008080.svg?logo=latex&logoColor=white" />
-    </div>
+---
 
-    <!-- Known Editing Softwares -->
-    <h3>Known Editing Softwares</h3>
-    <div class="tech-stack">
-      <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" />
-      <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
-      <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" />
-      <img src="https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white" />
-      <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white" />
-      <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
-    </div>
-
-    <!-- Code Experience -->
-    <h3>Code Experience In</h3>
-    <div class="tech-stack">
-      <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white" />
-      <img src="https://img.shields.io/badge/pycharm-143?logo=pycharm&logoColor=black&color=black&labelColor=green" />
-      <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&logoColor=white" />
-      <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?logo=sublime-text&logoColor=important" />
-      <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white" />
-      <img src="https://img.shields.io/badge/Atom-%2366595C.svg?logo=atom&logoColor=white" />
-      <img src="https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06" />
-    </div>
-
-    <!-- Footer -->
-    <div class="footer">
-      <p>Feel free to connect with me on <a href="https://www.linkedin.com/in/yash-srivastava-xyz" target="_blank">LinkedIn</a> or follow me on <a href="https://github.com/yash-srivastava" target="_blank">GitHub</a>.</p>
-    </div>
-  </div>
-
-</body>
-</html>
+![Profile Image](https://github.com/user-attachments/assets/7937b375-4de0-43b3-9dd3-84974459a40b)
