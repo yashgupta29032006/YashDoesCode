@@ -1,4 +1,4 @@
-<h1 align="center"> 👋Hi, I'm Yash Srivastava</h1>
+<h1 align="center"> Hi 👋, I'm Yash Srivastava</h1>
 <h3 align="center">A Professional Video/SFX Editor & Amateur Coder in Industry leading Languages</h3>
 <img align="right" alt="Coding" width="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjFhNXYyb2Zrcmh6ZGQzOG84MGhuM2gzN3ZkdnNzbGl0Z3ZpanE4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UCQ5LookOT2ufbsGiT/giphy.webp" alt="Your GIF" alt="Your GIF)"/>
 <div style="display: flex; align-items: center;">
