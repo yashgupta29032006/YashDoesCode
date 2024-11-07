@@ -55,16 +55,4 @@
 
 ---
 
-### 🌟 **Connect With Me**
-
-Feel free to reach out for collaboration opportunities, coding discussions, or content creation projects. I'm always open to new ideas!
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/yash-srivastava-12345/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/YashSrivastava" target="_blank"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub"/></a>
-  <a href="mailto:yash@example.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"/></a>
-</p>
-
----
-
 ![Profile Image](https://github.com/user-attachments/assets/7937b375-4de0-43b3-9dd3-84974459a40b)
