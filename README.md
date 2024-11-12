@@ -30,13 +30,18 @@
 
 ### 🎬 **Editing Software**
 
+<img width="256" alt="APP" src="">
+
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" alt="Adobe Premiere Pro"/>
-  <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Adobe Photoshop"/>
-  <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" alt="Adobe Lightroom"/>
-  <img src="https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white" alt="Adobe Audition"/>
-  <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white" alt="Adobe After Effects"/>
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva"/>
+  <img src="https://github.com/user-attachments/assets/756f08f9-b4b8-47d3-ac12-3e187a162c57" alt="Adobe Premiere Pro" width="100"/>
+  <img src="https://github.com/user-attachments/assets/45e3b0b8-3165-4cdf-9cac-91109addeb13" alt="Adobe Photoshop" width="100"/>
+  <img src="https://github.com/your-username/your-repo/assets/custom-lightroom.png" alt="Adobe Lightroom" width="100"/>
+  <img src="https://github.com/user-attachments/assets/611def8b-f1a8-40f3-aad8-a9869bf01441" alt="Adobe Audition" width="100"/>
+  <img src="https://github.com/your-username/your-repo/assets/custom-after-effects.png" alt="Adobe After Effects" width="100"/>
+  <img src="https://github.com/your-username/your-repo/assets/custom-canva.png" alt="Canva" width="100"/>
+</p>
+
 </p>
 
 ---
