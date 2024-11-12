@@ -34,7 +34,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/756f08f9-b4b8-47d3-ac12-3e187a162c57" alt="Adobe Premiere Pro" width="16"/>
+  <img src="https://github.com/user-attachments/assets/756f08f9-b4b8-47d3-ac12-3e187a162c57" alt="Adobe Premiere Pro" width="32"/>
   <img src="https://github.com/user-attachments/assets/45e3b0b8-3165-4cdf-9cac-91109addeb13" alt="Adobe Photoshop" width="16"/>
   <img src="https://github.com/your-username/your-repo/assets/custom-lightroom.png" alt="Adobe Lightroom" width="16"/>
   <img src="https://github.com/user-attachments/assets/611def8b-f1a8-40f3-aad8-a9869bf01441" alt="Adobe Audition" width="16"/>
