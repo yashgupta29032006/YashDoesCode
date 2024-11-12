@@ -34,7 +34,7 @@
   <img src="https://github.com/user-attachments/assets/756f08f9-b4b8-47d3-ac12-3e187a162c57" alt="Adobe Premiere Pro" width="42"/>
   <img src="https://github.com/user-attachments/assets/45e3b0b8-3165-4cdf-9cac-91109addeb13" alt="Adobe Photoshop" width="42"/>
   <img src="https://github.com/user-attachments/assets/6712a60b-570e-4661-9046-ba2cb10e63b5" alt="Adobe Lightroom" width="42"/>
-  <img src="https://github.com/user-attachments/assets/611def8b-f1a8-40f3-aad8-a9869bf01441" alt="Adobe Audition" width="42"/>
+  <img src="https://github.com/user-attachments/assets/9a3d32bb-04fc-4710-be25-65f5457d1bae" alt="Adobe Audition" width="42"/>
   <img src="https://github.com/user-attachments/assets/31556783-721c-4806-a721-08f719259047" alt="Adobe After Effects" width="42"/>
   <img src="https://github.com/user-attachments/assets/66535a61-8271-4325-ba6b-4817361a6af8" alt="Canva" width="40"/>
 </p>
