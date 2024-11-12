@@ -36,7 +36,7 @@
   <img src="https://github.com/user-attachments/assets/6712a60b-570e-4661-9046-ba2cb10e63b5" alt="Adobe Lightroom" width="42"/>
   <img src="https://github.com/user-attachments/assets/611def8b-f1a8-40f3-aad8-a9869bf01441" alt="Adobe Audition" width="42"/>
   <img src="https://github.com/user-attachments/assets/31556783-721c-4806-a721-08f719259047" alt="Adobe After Effects" width="42"/>
-  <img src="https://github.com/user-attachments/assets/b82431ea-c5fd-4f14-b135-790487854ebe" alt="Canva" width="42"/>
+  <img src="https://github.com/user-attachments/assets/b82431ea-c5fd-4f14-b135-790487854ebe" alt="Canva" width="35"/>
 </p>
 
 </p>
