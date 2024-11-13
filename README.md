@@ -54,16 +54,6 @@
   <img src="https://github.com/user-attachments/assets/5ac1e49f-c5c6-423d-9419-22d22ad27877" alt="BlueJ" width="40"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/>
-  <img src="https://img.shields.io/badge/pycharm-143?logo=pycharm&logoColor=black&color=black&labelColor=green" alt="PyCharm"/>
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&logoColor=white" alt="Visual Studio"/>
-  <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?logo=sublime-text&logoColor=important" alt="Sublime Text"/>
-  <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white" alt="Eclipse"/>
-  <img src="https://img.shields.io/badge/Atom-%2366595C.svg?logo=atom&logoColor=white" alt="Atom"/>
-  <img src="https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06" alt="LeetCode"/>
-</p>
-
 ---
 
 ![Profile Image](https://github.com/user-attachments/assets/7937b375-4de0-43b3-9dd3-84974459a40b)
