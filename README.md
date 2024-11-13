@@ -46,6 +46,15 @@
 ### 💻 **Tools & IDEs**
 
 <p align="center">
+  <img src="https://github.com/user-attachments/assets/204ef0ec-fc08-46a4-a0eb-b493854ecab2" alt="IntelliJ IDEA" width="42"/>
+  <img src="https://github.com/user-attachments/assets/d793b036-c9b0-4c31-996f-e5411c2c64a1" alt="Visual Studio Code" width="42"/>
+  <img src="https://github.com/user-attachments/assets/bf612798-73c2-40ca-8b7c-030b84840f3d" alt="PyCharm" width="42"/>
+  <img src="https://github.com/user-attachments/assets/d39df8a6-84fa-4314-8086-12baae56b904" alt="Eclipse" width="42"/>
+  <img src="https://github.com/user-attachments/assets/4a44968f-8a21-4d57-a49e-41aa8ff82d20" alt="Sublime Text" width="42"/>
+  <img src="https://github.com/user-attachments/assets/5ac1e49f-c5c6-423d-9419-22d22ad27877" alt="BlueJ" width="40"/>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/>
   <img src="https://img.shields.io/badge/pycharm-143?logo=pycharm&logoColor=black&color=black&labelColor=green" alt="PyCharm"/>
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&logoColor=white" alt="Visual Studio"/>
