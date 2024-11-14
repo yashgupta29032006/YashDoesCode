@@ -38,7 +38,8 @@
   <img src="https://github.com/user-attachments/assets/4a44968f-8a21-4d57-a49e-41aa8ff82d20" alt="Sublime Text" width="42"/>
   <img src="https://github.com/user-attachments/assets/5ac1e49f-c5c6-423d-9419-22d22ad27877" alt="BlueJ" width="40"/>
 </p>
+![7d9ac7c8-dc24-4309-9073-69e441b2f4cd]()
 
 <p align="left"
-<img src="file:///C:/Users/Asus%20Vivobook%2014/Dock/Downloads/Sign.png">
+<img src="https://github.com/user-attachments/assets/d01538f6-6c67-4b00-a38c-f021d7aff8f7">
 </p>
