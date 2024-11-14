@@ -17,7 +17,7 @@
 
 
 ---
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="30px"/> ### **Languages & Technologies**
+<img src="https://private-user-images.githubusercontent.com/74038190/243078651-2c0eef4b-7b75-42bd-9722-4bea97a2d532.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzE2MTE4MjgsIm5iZiI6MTczMTYxMTUyOCwicGF0aCI6Ii83NDAzODE5MC8yNDMwNzg2NTEtMmMwZWVmNGItN2I3NS00MmJkLTk3MjItNGJlYTk3YTJkNTMyLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTE0VDE5MTIwOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWI4YTFhOWYzZjdlYmRiM2MyZjgwZGE1NWQ2MzhhMjUxNzQ1ZGM2MzFjNzVkOTk0MDA2ZjE1MzVhYjgzYjAxN2ImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.kGWBT0lR_hOiklkIc0ZInAVpnRFUeunCIW6Hw8LOM00" width="30px"/> ### **Languages & Technologies**
 <p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54" alt="Python"/>
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=white" alt="Java"/>
