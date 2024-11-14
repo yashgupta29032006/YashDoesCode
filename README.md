@@ -38,8 +38,8 @@
   <img src="https://github.com/user-attachments/assets/4a44968f-8a21-4d57-a49e-41aa8ff82d20" alt="Sublime Text" width="42"/>
   <img src="https://github.com/user-attachments/assets/5ac1e49f-c5c6-423d-9419-22d22ad27877" alt="BlueJ" width="40"/>
 </p>
-![7d9ac7c8-dc24-4309-9073-69e441b2f4cd]()
 
-<p align="left"
-<img src="https://github.com/user-attachments/assets/d01538f6-6c67-4b00-a38c-f021d7aff8f7">
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/cc928612-9048-401b-afb4-2fbd3f8da86c/7d9ac7c8-dc24-4309-9073-69e441b2f4cd" alt="7d9ac7c8-dc24-4309-9073-69e441b2f4cd" width="150" style="border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);" />
 </p>
+
