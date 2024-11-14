@@ -30,9 +30,10 @@
 <p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
 </p>
----
-
-<h3 align="left"><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30px"/> Experienced On :</h3>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
+</p>
+<h3 align="left"><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30px"/> Known IDE's</h3>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/204ef0ec-fc08-46a4-a0eb-b493854ecab2" alt="IntelliJ IDEA" width="42"/>
@@ -42,6 +43,4 @@
   <img src="https://github.com/user-attachments/assets/4a44968f-8a21-4d57-a49e-41aa8ff82d20" alt="Sublime Text" width="42"/>
   <img src="https://github.com/user-attachments/assets/5ac1e49f-c5c6-423d-9419-22d22ad27877" alt="BlueJ" width="40"/>
 </p>
-
----
 ![Profile Image](https://github.com/user-attachments/assets/7937b375-4de0-43b3-9dd3-84974459a40b)
