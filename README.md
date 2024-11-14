@@ -40,5 +40,5 @@
 </p>
 
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/d3d75697-7d92-41d8-8b3f-4622f66bd142/7d9ac7c8-dc24-4309-9073-69e441b2f4cd" alt="Signature" width="300"  />
+  <img src="https://github.com/user-attachments/assets/a0594d4d-6574-492f-bdb1-7a7da3268215" alt="7d9ac7c8-dc24-4309-9073-69e441b2f4cd" width="300"/>
 </p>
