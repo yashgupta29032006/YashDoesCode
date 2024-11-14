@@ -40,5 +40,5 @@
 </p>
 
 <p align="left"
-<img src="![Sign](https://github.com/user-attachments/assets/4ab7cc2c-7286-4d7e-8684-0fd36848f260)">
+<img src="file:///C:/Users/Asus%20Vivobook%2014/Dock/Downloads/Sign.png">
 </p>
