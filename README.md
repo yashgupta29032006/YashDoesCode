@@ -40,5 +40,5 @@
 </p>
 
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/d3d75697-7d92-41d8-8b3f-4622f66bd142/7d9ac7c8-dc24-4309-9073-69e441b2f4cd" alt="Image Description" width="300" style="border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);" />
+  <img src="https://github.com/user-attachments/assets/d3d75697-7d92-41d8-8b3f-4622f66bd142/7d9ac7c8-dc24-4309-9073-69e441b2f4cd" alt="Signature" width="300"  />
 </p>
