@@ -13,7 +13,6 @@
   <img src="https://img.shields.io/badge/latex-%23008080.svg?logo=latex&logoColor=white" alt="LaTeX"/>
 </p>
 
----
 <h3 align="left"><img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30px"/> Editing Skillset</h3>
 
 
@@ -26,13 +25,6 @@
   <img src="https://github.com/user-attachments/assets/66535a61-8271-4325-ba6b-4817361a6af8" alt="Canva" width="40"/>
 </p>
 
-</p>
-<p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
-</p>
-<p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
-</p>
 <h3 align="left"><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30px"/> Known IDE's</h3>
 
 <p align="center">
