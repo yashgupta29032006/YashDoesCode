@@ -39,4 +39,6 @@
   <img src="https://github.com/user-attachments/assets/5ac1e49f-c5c6-423d-9419-22d22ad27877" alt="BlueJ" width="40"/>
 </p>
 
-![7d9ac7c8-dc24-4309-9073-69e441b2f4cd](https://github.com/user-attachments/assets/d3d75697-7d92-41d8-8b3f-4622f66bd142)
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/d3d75697-7d92-41d8-8b3f-4622f66bd142/7d9ac7c8-dc24-4309-9073-69e441b2f4cd" alt="Image Description" width="300" style="border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);" />
+</p>
