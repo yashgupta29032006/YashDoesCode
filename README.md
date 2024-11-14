@@ -15,9 +15,9 @@
   </p>
 </div>
 
-
 ---
-<h3 align="left"><img src="https://private-user-images.githubusercontent.com/74038190/243078651-2c0eef4b-7b75-42bd-9722-4bea97a2d532.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzE2MTE4MjgsIm5iZiI6MTczMTYxMTUyOCwicGF0aCI6Ii83NDAzODE5MC8yNDMwNzg2NTEtMmMwZWVmNGItN2I3NS00MmJkLTk3MjItNGJlYTk3YTJkNTMyLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTE0VDE5MTIwOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWI4YTFhOWYzZjdlYmRiM2MyZjgwZGE1NWQ2MzhhMjUxNzQ1ZGM2MzFjNzVkOTk0MDA2ZjE1MzVhYjgzYjAxN2ImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.kGWBT0lR_hOiklkIc0ZInAVpnRFUeunCIW6Hw8LOM00" width="30px"/> Languages & Technologies</h3>
+
+<h3 align="center"><img src="https://private-user-images.githubusercontent.com/74038190/243078651-2c0eef4b-7b75-42bd-9722-4bea97a2d532.gif" width="30px"/> Languages & Technologies</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54" alt="Python"/>
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=white" alt="Java"/>
@@ -26,9 +26,8 @@
 </p>
 
 ---
-<h3 align="left"><img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30px"/> Coding Skillset</h3>
 
-
+<h3 align="center"><img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30px"/> Coding Skillset</h3>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/756f08f9-b4b8-47d3-ac12-3e187a162c57" alt="Adobe Premiere Pro" width="42"/>
   <img src="https://github.com/user-attachments/assets/45e3b0b8-3165-4cdf-9cac-91109addeb13" alt="Adobe Photoshop" width="42"/>
@@ -38,12 +37,9 @@
   <img src="https://github.com/user-attachments/assets/66535a61-8271-4325-ba6b-4817361a6af8" alt="Canva" width="40"/>
 </p>
 
-</p>
-
 ---
 
-<h3 align="left"><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30px"/> Experienced On :</h3>
-
+<h3 align="center"><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30px"/> Experienced On :</h3>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/204ef0ec-fc08-46a4-a0eb-b493854ecab2" alt="IntelliJ IDEA" width="42"/>
   <img src="https://github.com/user-attachments/assets/d793b036-c9b0-4c31-996f-e5411c2c64a1" alt="Visual Studio Code" width="42"/>
@@ -55,7 +51,3 @@
 
 ---
 ![Profile Image](https://github.com/user-attachments/assets/7937b375-4de0-43b3-9dd3-84974459a40b)
-
-
-
-
