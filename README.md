@@ -17,8 +17,7 @@
 
 
 ---
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Bomb.png" alt="Bomb" width="25" height="25" />
-### **Languages & Technologies**
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="25" height="25" />### **Languages & Technologies**
 <p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54" alt="Python"/>
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=white" alt="Java"/>
