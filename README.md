@@ -8,12 +8,6 @@
 ## 📊 GitHub Stats
 
 ![YashDoesCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=YashDoesCode&show_icons=true&theme=radical)
-
-## 🔥 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YashDoesCode&layout=compact&theme=radical)
-
-
 ---
 <h3 align="left"><img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width="30px"/> Known Languages</h3>
 <p align="center">
