@@ -4,10 +4,6 @@
 <p align="center">
   <img width="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjFhNXYyb2Zrcmh6ZGQzOG84MGhuM2gzN3ZkdnNzbGl0Z3ZpanE4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UCQ5LookOT2ufbsGiT/giphy.webp" alt="Coding GIF"/>
 </p>
-
-## 📊 GitHub Stats
-
-![YashDoesCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=YashDoesCode&show_icons=true&theme=radical)
 ---
 <h3 align="left"><img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width="30px"/> Known Languages</h3>
 <p align="center">
