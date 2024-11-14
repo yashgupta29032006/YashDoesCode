@@ -5,15 +5,13 @@
   <img width="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjFhNXYyb2Zrcmh6ZGQzOG84MGhuM2gzN3ZkdnNzbGl0Z3ZpanE4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UCQ5LookOT2ufbsGiT/giphy.webp" alt="Coding GIF"/>
 </p>
 
-<div align="center">
-  <p style="max-width: 700px; text-align: center;">
-    I'm a 17-year-old coder and content creator with a passion for both coding and digital media. 
-    <br>
-    My programming skills include Core Java, Python, HTML, and LaTeX. I'm also proficient in industry-standard software such as Adobe Premiere Pro, Lightroom, Audition, Photoshop, HitFilm Express, Photopea, Canva etc
-    <br><br>
-    I'm always eager to take on new projects and expand my skills in technology and media. Let's build something amazing together!
-  </p>
-</div>
+## 📊 GitHub Stats
+
+![YashDoesCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=YashDoesCode&show_icons=true&theme=radical)
+
+## 🔥 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YashDoesCode&layout=compact&theme=radical)
 
 
 ---
