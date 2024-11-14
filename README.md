@@ -38,4 +38,4 @@
   <img src="https://github.com/user-attachments/assets/4a44968f-8a21-4d57-a49e-41aa8ff82d20" alt="Sublime Text" width="42"/>
   <img src="https://github.com/user-attachments/assets/5ac1e49f-c5c6-423d-9419-22d22ad27877" alt="BlueJ" width="40"/>
 </p>
-![Profile Image](https://github.com/user-attachments/assets/7937b375-4de0-43b3-9dd3-84974459a40b)
+![Sign](https://github.com/user-attachments/assets/9a7b806b-80c4-4038-879a-8df16b4f4046)
