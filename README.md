@@ -1,24 +1,19 @@
 <h1 align="center">Hi <img src="https://github.com/kotisyamala/kotisyamala/blob/master/images/hi.gif" width="30px"/>, I'm Yash Srivastava</h1>
 <h3 align="center">A Professional Video/SFX Editor & Amateur Coder in Industry-leading Languages</h3>
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <!-- Text Section -->
-  <div style="flex: 1; padding-right: 20px;">
-    <p><strong>I'm a 17-year-old coder and content creator with a passion for both coding and digital media.</strong></p>
-    <p>
-      My programming skills include Core Java, Python, HTML, and LaTeX. I'm also proficient in industry-standard software such as Adobe Premiere Pro, Lightroom, Audition, Photoshop, HitFilm Express, Photopea, Canva, and more.
-    </p>
-    <p>
-      I'm always eager to take on new projects and expand my skills in technology and media. Let's build something amazing together!
-    </p>
-  </div>
+<p align="Center">
+  <img width="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjFhNXYyb2Zrcmh6ZGQzOG84MGhuM2gzN3ZkdnNzbGl0Z3ZpanE4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UCQ5LookOT2ufbsGiT/giphy.webp" alt="Coding GIF"/>
+</p>
 
-  <!-- GIF Section -->
-  <div style="flex: 1; text-align: right;">
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjFhNXYyb2Zrcmh6ZGQzOG84MGhuM2gzN3ZkdnNzbGl0Z3ZpanE4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UCQ5LookOT2ufbsGiT/giphy.webp" alt="Coding GIF" width="300" style="border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);" />
-  </div>
+<div align="Center">
+  <p style="max-width: 700px; text-align: center;">
+    I'm a 17-year-old coder and content creator with a passion for both coding and digital media. 
+    <br>
+    My programming skills include Core Java, Python, HTML, and LaTeX. I'm also proficient in industry-standard software such as Adobe Premiere Pro, Lightroom, Audition, Photoshop, HitFilm Express, Photopea, Canva etc
+    <br><br>
+    I'm always eager to take on new projects and expand my skills in technology and media. Let's build something amazing together!
+  </p>
 </div>
-
 
 <h3 align="left"><img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width="30px"/> Known Languages</h3>
 <p align="center">
