@@ -1,9 +1,19 @@
 <h1 align="center">Hi <img src="https://github.com/kotisyamala/kotisyamala/blob/master/images/hi.gif" width="30px"/>, I'm Yash Srivastava</h1>
 <h3 align="center">A Professional Video/SFX Editor & Amateur Coder in Industry-leading Languages</h3>
 
-<p align="center">
+<p align="Right">
   <img width="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjFhNXYyb2Zrcmh6ZGQzOG84MGhuM2gzN3ZkdnNzbGl0Z3ZpanE4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UCQ5LookOT2ufbsGiT/giphy.webp" alt="Coding GIF"/>
 </p>
+
+<div align="Left">
+  <p style="max-width: 700px; text-align: center;">
+    I'm a 17-year-old coder and content creator with a passion for both coding and digital media. 
+    <br>
+    My programming skills include Core Java, Python, HTML, and LaTeX. I'm also proficient in industry-standard software such as Adobe Premiere Pro, Lightroom, Audition, Photoshop, HitFilm Express, Photopea, Canva etc
+    <br><br>
+    I'm always eager to take on new projects and expand my skills in technology and media. Let's build something amazing together!
+  </p>
+</div>
 
 <h3 align="left"><img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width="30px"/> Known Languages</h3>
 <p align="center">
