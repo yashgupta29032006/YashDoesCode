@@ -50,6 +50,8 @@
 </p>
 
 ---
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/theyashsrivastava07"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="100" alt="theyashsrivastava07" /></a></p><br><br>
 
 <p align="left">
   <img src="https://github.com/user-attachments/assets/a0594d4d-6574-492f-bdb1-7a7da3268215" alt="7d9ac7c8-dc24-4309-9073-69e441b2f4cd" width="120"/>
